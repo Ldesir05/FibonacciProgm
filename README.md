@@ -1,0 +1,3 @@
+# FibonacciProgm
+0 1 1 2 3 5 8 13 .....
+Implement the Fibonacci function in both a recursive and iterative fashion. What’s the runtime efficiency of each? 
